@@ -1,0 +1,11 @@
+Aivoa_Deviation_AI
+│
+├── backend
+│   ├── main.py
+│   └── .env
+│
+└── frontend
+    └── src
+        ├── App.jsx
+        ├── App.css
+        └── index.css
